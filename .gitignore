@@ -3,3 +3,4 @@
 *.gitignore~
 *.swp
 *.rs~
+/target/
