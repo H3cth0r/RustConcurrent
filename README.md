@@ -7,6 +7,8 @@ choice with a weight or probability. On this implementation will slip
 or move forward. The probability and movement of the characters if based
 on the following table:
 
+![random movement](https://github.com/H3cth0r/RustConcurrent/blob/main/resources/table_movement.png?raw=true)
+
 
 Each time the animal moves, it will get printed on the terminal.
 
@@ -15,3 +17,4 @@ sharing some space on the memory; this way the threads can access
 some value and evaluate it.
 
 In the following video you'll see the program running.
+
