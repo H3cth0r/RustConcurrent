@@ -21,7 +21,8 @@ use std::time::Duration;
 
 
 fn main() {
-    
+    println!("Rabbit vs Turtoise");
+    println!(">>>>> START <<<<<");
     let winnerT = Arc::new(Mutex::new(5));
     let winnerR = Arc::new(Mutex::new(5));
 
