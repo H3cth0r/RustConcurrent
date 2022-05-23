@@ -19,3 +19,18 @@ some value and evaluate it.
 In the following video you'll see the program running.
 
 https://user-images.githubusercontent.com/43997408/169716908-6cf3c40f-310a-41bc-ac5c-49447578343f.mp4
+
+
+## BUILD & RUN
+Rust and cargo makes it easy to build and run a project. In this case
+the directory of the cargo project is named **RabbitNTurtle**, so
+firts of all just must go into the direcotory. After moving to the
+directory, you must type the following commands that will let you
+build and run the project.
+```
+cargo build
+cargo run
+```
+
+This will automatically run the proyect. Just make sure you have the
+corrent rust installation for using cargo and you'll be all set.
